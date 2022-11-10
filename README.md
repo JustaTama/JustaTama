@@ -42,7 +42,7 @@ const info = {
 
 ## 🔥 Streak 
 <p align="center">
-<img src='https://github-readme-streak-stats.herokuapp.com?user=JustaTama&theme=neon-dark&locale=vi&date_format=j%2Fn%5B%2FY%5D'>
+<img src='https://github-readme-streak-stats.herokuapp.com?user=JustaTama&theme=monokai&locale=vi&date_format=j%2Fn%5B%2FY%5D'>
 <p>
 
 ## 🌐 Most used languages 
