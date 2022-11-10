@@ -1,5 +1,5 @@
 <h1 align="center">✩&emsp;Welcome (づ｡◕‿‿◕｡づ)&emsp;✩</h1>
-    
+
 <div>
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1200" height="3">
 <img src="https://github.com/JustaTama/GitHub-Bot/blob/main/image/name1.png?raw=true" width="1500">
@@ -21,11 +21,12 @@ const info = {
 	age: 18,
 	gender: 'male',
 	occupation: 'fronted developer',
-	location: 'the Earth',
+	location: 'VN',
 	interested_in: ['javascript', 'typescript', 'reactjs', 'nextjs', 'nodejs'],
 	email: 'mtama1204@yandex.com'
 };
 ```
+
 <!-- ![](https://komarev.com/ghpvc/?username=JustaTama) -->
 
 <details>
@@ -34,25 +35,29 @@ const info = {
 <p align="center">
   <img src="https://github.com/JustaTama/GitHub-Bot/blob/main/image/oreki_tho_dai.gif?raw=true">
 </p> -->
-
+	
+	
 ## 📈 Stats 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=JustaTama&cc=000&tc=fff&ic=fff&bc=000">
 <p>
 
-## 🔥 Streak 
+## 🔥 Streak , 🌐 Most used languages
 <p align="center">
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=JustaTama&theme=elegant&hide_border=true&locale=vi&date_format=j%2Fn%5B%2FY%5D'>
-<p>
-
-## 🌐 Most used languages 
-<p align="center">
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=JustaTama&theme=elegant&locale=vi&date_format=j%2Fn%5B%2FY%5D'>
+	ㅤ
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=JustaTama&theme=radical&layout=compact'>
 <p>
 
 ## 📊 Graph 
 <p align="center">
 <img src='https://activity-graph.herokuapp.com/graph?username=JustaTama&theme=gotham&hide_border=true'>
+<p>
+	
+## GitHub Profile Summary Cardsh
+<p align="center">
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustaTama&theme=github_dark'>
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JustaTama&theme=github_dark'>	
 <p>
 
 ## 💳 Dev Card 
