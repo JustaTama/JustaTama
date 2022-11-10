@@ -37,12 +37,12 @@ const info = {
 
 ## 📈 Stats 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=JustaTama">
+  <img src="https://github-stats-alpha.vercel.app/api?username=JustaTama&cc=000&tc=fff&ic=fff&bc=000">
 <p>
 
 ## 🔥 Streak 
 <p align="center">
-<img src='https://github-readme-streak-stats.herokuapp.com?user=JustaTama&theme=monokai&locale=vi&date_format=j%2Fn%5B%2FY%5D'>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=JustaTama&theme=tokyonight&hide_border=true&locale=vi&date_format=j%2Fn%5B%2FY%5D'>
 <p>
 
 ## 🌐 Most used languages 
