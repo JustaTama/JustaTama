@@ -37,19 +37,17 @@ const info = {
 
 ## 📈 Stats 
 <p align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="17%" style="display:inline;" height='170'>
   <img src="https://github-stats-alpha.vercel.app/api?username=JustaTama">
-  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="17%" style="display:inline;" height='170'>
 <p>
 
 ## 🔥 Streak 
 <p align="center">
-<img src='http://github-readme-streak-stats.herokuapp.com/?user=JustaTama&hide_border=true&theme=monokai'>
+<img src='https://github-readme-streak-stats.herokuapp.com?user=JustaTama&theme=neon-dark&locale=vi&date_format=j%2Fn%5B%2FY%5D'>
 <p>
 
 ## 🌐 Most used languages 
 <p align="center">
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=huynh12345678&theme=cobalt&&langs_count=6&hide_border=true'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&theme=cobalt&&langs_count=6&hide_border=true'>
 <p>
 
 ## 📊 Graph 
