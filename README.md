@@ -35,8 +35,7 @@ const info = {
 <p align="center">
   <img src="https://github.com/JustaTama/GitHub-Bot/blob/main/image/oreki_tho_dai.gif?raw=true">
 </p> -->
-	
-	
+
 ## 📈 Stats 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=JustaTama&cc=000&tc=fff&ic=fff&bc=000">
@@ -66,10 +65,6 @@ const info = {
 
 ## 🏆 Trophies 
 [![Trophies](https://hacked-github-stat-trophies.vercel.app/?username=JustaTama&margin-w=25&theme=monokai)](#) 
-	
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->	
 
 ## 🔗 Links 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JustaTama)
