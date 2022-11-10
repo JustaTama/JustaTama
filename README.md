@@ -42,12 +42,12 @@ const info = {
 
 ## 🔥 Streak 
 <p align="center">
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=JustaTama&theme=tokyonight&hide_border=true&locale=vi&date_format=j%2Fn%5B%2FY%5D'>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=JustaTama&theme=elegant&hide_border=true&locale=vi&date_format=j%2Fn%5B%2FY%5D'>
 <p>
 
 ## 🌐 Most used languages 
 <p align="center">
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&theme=cobalt&&langs_count=6&hide_border=true'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=JustaTama&theme=radical&layout=compact'>
 <p>
 
 ## 📊 Graph 
@@ -66,9 +66,9 @@ const info = {
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JustaTama)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/657068549302517771)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://www.facebook.com/mtama1204)
-	
+[![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=page&logoColor=white "Homepage")](https://JustaTama.github.io/)	
+
 <!--
-[![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=page&logoColor=white "Homepage")](https://huynh12345678.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/huynh-le-xuan-09b81b202/)  
 -->
 	
