@@ -65,7 +65,11 @@ const info = {
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+JustaTama+-+A+frontend+developer" align="right">
 
 ## 🏆 Trophies 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=huynh12345678&margin-w=10&theme=discord&no-frame=true)](#) 
+[![Trophies](https://hacked-github-stat-trophies.vercel.app/?username=JustaTama&margin-w=25&theme=monokai)](#) 
+	
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->	
 
 ## 🔗 Links 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JustaTama)
