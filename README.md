@@ -53,7 +53,7 @@ const info = {
 <img src='https://activity-graph.herokuapp.com/graph?username=JustaTama&theme=gotham&hide_border=true'>
 <p>
 	
-## GitHub Profile Summary Cardsh
+## GitHub Profile Summary Cards
 <p align="center">
 <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustaTama&theme=github_dark'>
 <img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JustaTama&theme=github_dark'>	
