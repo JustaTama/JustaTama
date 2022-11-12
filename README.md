@@ -60,7 +60,7 @@ const info = {
 <p>
 
 ## 💳 Dev Card 
-<a href="https://app.daily.dev/JustaTama"><img src="https://api.daily.dev/devcards/326937013bca43aeaa237d9614847fe9.png?r=7t0" width="395" alt="Lê Minh Tâm's Dev Card"/></a>
+<a href="https://app.daily.dev/JustaTama"><img src="https://api.daily.dev/devcards/326937013bca43aeaa237d9614847fe9.png?r=cem" width="390" alt="Minh Tâm's Dev Card"/></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+JustaTama+-+A+frontend+developer" align="right">
 
 ## 🏆 Trophies 
