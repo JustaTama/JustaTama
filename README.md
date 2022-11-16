@@ -125,7 +125,22 @@ const info = {
 ### Databases
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+	
+<div align="center">
+	<a href="https://git.io/typing-svg">
+			<img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+	</a>
+</div>
 
+<p align="right">
+	<a href="#top">
+		<img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" />
+	</a>
+</p>
+
+<div align="center" >
+	<img alt="" width="100%" src="./assets/footer.png">
+</div>
 </details>
 
 <!---
