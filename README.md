@@ -127,9 +127,7 @@ const info = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 	
 <div align="center">
-	<a href="https://git.io/typing-svg">
-			<img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
-	</a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=850&color=F789C1&center=true&width=300&lines=Thanks+for+your+visit!">
 </div>
 
 <p align="right">
