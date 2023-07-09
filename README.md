@@ -50,7 +50,7 @@ const info = {
 
 ## 📊 Graph 
 <p align="center">
-<img src='https://activity-graph.herokuapp.com/graph?username=JustaTama&theme=gotham&hide_border=true'>
+<img src='https://ashutosh00710.github.io/graph?username=JustaTama&theme=gotham&hide_border=true'>
 <p>
 	
 ## GitHub Profile Summary Cards
